@@ -8,6 +8,7 @@ public class Test4 {
 		System.out.println("Hi Text4.java");
 		System.out.println("Hi");
 
+		System.out.println("Hi");
 	}
 
 }
